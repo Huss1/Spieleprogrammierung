@@ -1,2 +1,2 @@
 # Spieleprogrammierung
-Dies ist unser Spieleordner auf Github
+Dies ist unser Spieleordner auf Github.
